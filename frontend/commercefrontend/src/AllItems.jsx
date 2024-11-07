@@ -60,6 +60,7 @@ function AllItems()
                             style={WishListItems.includes(Item.itemId)?{color:'red'} :{color:'black'}}></i>
                     <p>{Item.description}</p>
                     <h4>{Item.price}</h4>
+                    <button>sample</button>
                 </div>
             )
         })} 

@@ -132,7 +132,7 @@
               "RelativeDocumentMoniker": "CommerceWebAPI\\Repository\\CommerceRepo.cs",
               "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Repository\\CommerceRepo.cs",
               "RelativeToolTip": "CommerceWebAPI\\Repository\\CommerceRepo.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAA8wAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T07:40:46.804Z",
               "EditorCaption": ""
@@ -268,6 +268,14 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-06-08T07:34:19.886Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
