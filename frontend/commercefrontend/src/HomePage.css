@@ -1,0 +1,26 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.HomeNav
+{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    top:10px;
+}
+.SearchDiv
+{
+    border:1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    display: inline;
+}
+.SearchInput
+{
+    border: none;
+    outline: none;
+    font-size: 15px;
+    color: black;
+}

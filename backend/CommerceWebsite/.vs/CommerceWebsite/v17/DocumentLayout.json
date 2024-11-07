@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\repository\\commercerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\repository\\commercerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\controllers\\commercecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\controllers\\commercecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\models\\wishlistitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\models\\wishlistitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\repository\\icommercerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\repository\\icommercerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\dbcontext\\commercedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\dbcontext\\commercedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\migrations\\commercedbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\migrations\\commercedbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\migrations\\20240720132347_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\migrations\\20240720132347_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\migrations\\20240623082222_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\migrations\\20240623082222_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\migrations\\20240720113925_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\migrations\\20240720113925_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\migrations\\20240720113925_initial1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\migrations\\20240720113925_initial1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\migrations\\20240623082222_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\migrations\\20240623082222_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\commercewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\commercewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|c:\\users\\rohin\\desktop\\commercewebsite\\backend\\commercewebsite\\commercewebapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BB5E97-12F1-442B-931B-5F1831CF2ACF}|CommerceWebAPI\\CommerceWebAPI.csproj|solutionrelative:commercewebapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommerceDB.cs",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\DBContext\\CommerceDB.cs",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\DBContext\\CommerceDB.cs",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\DBContext\\CommerceDB.cs",
+              "RelativeToolTip": "CommerceWebAPI\\DBContext\\CommerceDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:59:19.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Models\\Items.cs",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\Models\\Items.cs",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Models\\Items.cs",
+              "RelativeToolTip": "CommerceWebAPI\\Models\\Items.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:35:05.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommerceController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Controllers\\CommerceController.cs",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\Controllers\\CommerceController.cs",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Controllers\\CommerceController.cs",
+              "RelativeToolTip": "CommerceWebAPI\\Controllers\\CommerceController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAADwv1cAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:28:11.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommerceRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Repository\\ICommerceRepo.cs",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\Repository\\ICommerceRepo.cs",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Repository\\ICommerceRepo.cs",
+              "RelativeToolTip": "CommerceWebAPI\\Repository\\ICommerceRepo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wBAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:41:08.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommerceRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Repository\\CommerceRepo.cs",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\Repository\\CommerceRepo.cs",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Repository\\CommerceRepo.cs",
+              "RelativeToolTip": "CommerceWebAPI\\Repository\\CommerceRepo.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAA8wAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:40:46.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WishListItems.cs",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Models\\WishListItems.cs",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\Models\\WishListItems.cs",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Models\\WishListItems.cs",
+              "RelativeToolTip": "CommerceWebAPI\\Models\\WishListItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:22:07.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\appsettings.json",
+              "RelativeToolTip": "CommerceWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-08T08:00:14.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommerceDBModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Migrations\\CommerceDBModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\Migrations\\CommerceDBModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Migrations\\CommerceDBModelSnapshot.cs",
+              "RelativeToolTip": "CommerceWebAPI\\Migrations\\CommerceDBModelSnapshot.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAEQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:38:46.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240623082222_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Migrations\\20240623082222_Initial.cs",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\Migrations\\20240623082222_Initial.cs",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Migrations\\20240623082222_Initial.cs",
+              "RelativeToolTip": "CommerceWebAPI\\Migrations\\20240623082222_Initial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:22:22.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240720113925_initial1.cs",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Migrations\\20240720113925_initial1.cs",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\Migrations\\20240720113925_initial1.cs",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Migrations\\20240720113925_initial1.cs",
+              "RelativeToolTip": "CommerceWebAPI\\Migrations\\20240720113925_initial1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:39:25.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240720132347_initial2.cs",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Migrations\\20240720132347_initial2.cs",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\Migrations\\20240720132347_initial2.cs",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Migrations\\20240720132347_initial2.cs",
+              "RelativeToolTip": "CommerceWebAPI\\Migrations\\20240720132347_initial2.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:23:48.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240623082222_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Migrations\\20240623082222_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\Migrations\\20240623082222_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Migrations\\20240623082222_Initial.Designer.cs",
+              "RelativeToolTip": "CommerceWebAPI\\Migrations\\20240623082222_Initial.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:53:26.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240720113925_initial1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Migrations\\20240720113925_initial1.Designer.cs",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\Migrations\\20240720113925_initial1.Designer.cs",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Migrations\\20240720113925_initial1.Designer.cs",
+              "RelativeToolTip": "CommerceWebAPI\\Migrations\\20240720113925_initial1.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:50:14.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Models\\Users.cs",
+              "RelativeToolTip": "CommerceWebAPI\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:49:11.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\Program.cs",
+              "RelativeToolTip": "CommerceWebAPI\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:38:35.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommerceWebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\CommerceWebAPI.csproj",
+              "RelativeDocumentMoniker": "CommerceWebAPI\\CommerceWebAPI.csproj",
+              "ToolTip": "C:\\Users\\Rohin\\Desktop\\CommerceWebsite\\Backend\\CommerceWebsite\\CommerceWebAPI\\CommerceWebAPI.csproj",
+              "RelativeToolTip": "CommerceWebAPI\\CommerceWebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T07:34:19.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
